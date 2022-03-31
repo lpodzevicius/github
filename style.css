@@ -1,5 +1,8 @@
 body {
-    background: crimson;
+    background: blue;
     color: white;
     font-family: arial
+}
+h1 {
+    color: green;
 }
